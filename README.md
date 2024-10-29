@@ -2,13 +2,13 @@
 
 Muhammad Rayyaan Fatikhahur Rakhim - 5025221047
 
-testcase 1:
+testcase 1: <br>
 client.py
 ![image](https://github.com/user-attachments/assets/4b7910d5-a6dc-45dc-8823-afdf58c9b674)
 server.py
 ![image](https://github.com/user-attachments/assets/0443582e-27f7-4ca9-b39f-2af28520aae1)
 
-testcase 2 (lebih dari 8 karakter):
+testcase 2 (lebih dari 8 karakter):<br>
 client.py
 ![image](https://github.com/user-attachments/assets/5d82b4f1-ddcf-4aa4-b812-af5f3e28bfce)
 server.py
